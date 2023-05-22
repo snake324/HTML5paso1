@@ -1,0 +1,11 @@
+section{
+    text-align: center;
+}
+.ordenadas{
+    display:inline-block;
+    
+}
+
+.desordenadas{
+    display:inline-block;  
+}
